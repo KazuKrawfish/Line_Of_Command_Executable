@@ -1,6 +1,9 @@
 # Line_Of_Command
 Turn-based tactical wargame inspired by Advance Wars. Built in C++ with SFML.
 
+##
+This is the static build executable, and as such requires only the MSVC redistributable found here: https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
 ## All New Interface
 Line of Command has a totally custom graphic set with new sound effects, images, and interface.
 
