@@ -20,9 +20,9 @@ banding together to form partisan groups in the mountains of their homeland. The
 ambushing the fragile supply lines of Redonia's occupation force, and now threaten to capture several 
 outlying settlements. Command a relief force that will resupply the beleaguered mountain garrisons, 
 and capture the guerilla base.
-Tactical Advisor: Move quickly to protect the headquarters before the rebels can bring their own heavy 
-weapons to bear on it. Additionally, all three garrisons have armored units that are low on fuel and 
-ammunition. If you can reach them with APCs in time, it may turn the tide of the battle.
+Tactical Advisor: Move quickly to protect the headquarters before the rebels can bring their own 
+heavy weapons to bear on it. Additionally, all three garrisons have armored units that are low on 
+fuel and ammunition. If you can reach them with APCs in time, it may turn the tide of the battle.
 Player_Data:_Name_PlayerType_StillAlive_Treasury
 ~
 0
@@ -43,26 +43,26 @@ Map_height_below:
 Player_whose_turn_it_is_below:
 2
 Map_terrain_below:
-MM.M.....M..MMMMM...
-.MMM....MMMMMMMMMMMn
-.MMMM.MM...MMMM.nMMM
-M.MMM.MMMMMM..MMM.n.
-.MMMM.MMMMMMMMMMMMMM
-MM.................M
-.MM.nMMMMMMMMMM.MMMM
-MM.n+MM.MMMMM.M.M.MM
-.MMMM..MMMMMMM..M.n.
-.nM.............M.MM
-MMM.MMMMMMMMMMMMMMM.
-M.M.+nMMMMMMMMMMMMMM
-.MMn.n............M.
-..MMMMMMMMMMMMMMM.Mn
-MMMMMMMMMM.n.MMMM.MM
-n..M....M.MMMM.M..M.
-..nM.MQ.M.Mn+nM...MM
-...M..M.M.M.Q+....MM
-...MM.M.M.MMMM.MMMM.
-......M........MMMMM
+MM.M.=...M..MMMMM...
+.MMM.=..MMMMMMMMMMMn
+.MMMM=MM...MMMM.nMMM
+M.MMM=MMMMMM..MMM.n.
+.MMMM=MMMMMMMMMMMMMM
+MM...===========...M
+.MM.nMMMMMMMMMM=MMMM
+MM.n+MM.MMMMM.M=M.MM
+.MMMM..MMMMMMM.=M.n.
+.nM=============M.MM
+MMM=MMMMMMMMMMMMMMM.
+M.M=+nMMMMMMMMMMMMMM
+.MMn=n============M.
+..MMMMMMMMMMMMMMM=Mn
+MMMMMMMMMM.n.MMMM=MM
+n..M===.M.MMMM.M.=M.
+..nM=MQ.M.Mn+nM..=MM
+...M==M.M.M.Q=====MM
+...MM=M.M.MMMM.MMMM.
+...===M........MMMMM
 Property_controller_number_below:
 00000000000000000000
 00000000000000000002
