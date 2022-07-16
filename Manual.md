@@ -36,6 +36,8 @@ Control is based around the cursor, a black box with spaces between the corners.
     -T - Attempt select below cursor.
     -M - If minion  selected, move below the cursor.
     -R - If minion selected, attack below the cursor.
+    -#0 - Toggle hide/show minions.
+    -#9 - Show range of minion beneath cursor.
 
 ### Minion State
 
