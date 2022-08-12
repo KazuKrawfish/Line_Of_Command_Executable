@@ -20,16 +20,14 @@ Player_Data:_Name_PlayerType_StillAlive_Treasury
 0
 1
 0
-0
 ~
 0
 1
 0
-0
 Game_turn_below:
 1
 Fog_Of_War
-0
+1
 Map_width_below:
 12
 Map_height_below:
