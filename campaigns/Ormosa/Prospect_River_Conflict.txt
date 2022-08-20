@@ -13,7 +13,7 @@ TurnLimit_Or_0_ForOff
 Who_wins_after_turn_limit
 2
 Name_of_next_mission_(Same_Directory)
-Conquest_Of_Ormosa
+Hills_Of_Discontent
 Mission_Briefing 6 Ormosa is outraged by the brutal treatment of their citizens by the "unknown" assailants. Although
 Redonia publicly denies any responsibility, the Ormosans have responded by amassing troops at the 
 only major bridge across the Prospect River. Their people cry for revenge. Redonia finally has the war 
@@ -25,10 +25,12 @@ Player_Data:_Name_PlayerType_StillAlive_Treasury
 0
 1
 0
+1
 Ormosan_Army
 1
 1
 0
+3
 Game_turn_below:
 1
 Fog_Of_War
