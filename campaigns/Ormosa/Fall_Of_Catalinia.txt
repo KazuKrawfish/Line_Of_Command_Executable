@@ -1,0 +1,78 @@
+Savegame_YesNo
+0
+Number_of_players_below:
+2
+Mission_On_Off
+1
+CampaignName
+Ormosa
+ScenarioOrMissionName
+Fall_Of_Catalinia
+TurnLimit_Or_0_ForOff
+0
+Who_wins_after_turn_limit
+2
+Name_of_next_mission_(Same_Directory)
+ENDENDEND
+Mission_Briefing 5 South Redonia's despotic tyrant, King Gabor, has fled to the island of Catalinia, where his loyal
+servants have hewn a fortress out of the inhospitable island's rocky peaks. We do not have time to
+starve him out. You must assault the island directly and put every last man to the sword.
+Tactical Advisor: Use a multi-pronged air/sea battle-force to take control of Catalinia. Beware
+of the Southern navy, which still has several loyal ships, including submarines. 
+Player_Data:_Name_PlayerType_StillAlive_Treasury
+~
+0
+1
+30000
+1
+Catalinian_Remnant
+1
+1
+0
+2
+Game_turn_below:
+1
+Fog_Of_War
+0
+Map_width_below:
+25
+Map_height_below:
+12
+Player_whose_turn_it_is_below:
+1
+Map_terrain_below:
+~~~~~~~~~~~~~~*.+=+.+.+.+
+~~~~~~~~~~~~~~~~*=AhH+.Q=
+~~~~~~~~~~~~~~~~.P..+AhH=
+~~~~**.^**~~~~~~~~~~P===+
+~~~~.MH^.*~~~~~~~~~~~~***
+~~~~^nnMM~~~~~~~~~~~~~~~~
+~~~~*..^^^.M.M.^*~~~~~~~~
+~~~~~~~~.M^^^.^h.*~~~~~~~
+~~~~~~*^.MMAM^.MM^^*~~~~~
+~~~~~*..HhHhQh.^.M~~~~~~~
+~~~~~~~**.^^.MM.*~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Property_controller_number_below:
+0000000000000000000000000
+0000000000000000001110010
+0000000000000000010001110
+0000000000000000000010000
+0000002000000000000000000
+0000022000000000000000000
+0000000000000000000000000
+0000000000000002000000000
+0000000000020000000000000
+0000000022222200000000000
+0000000000000000000000000
+0000000000000000000000000
+Number_Of_Banned_Minions
+0
+Banned_Minion_List
+Total_minions_below:
+4
+Minion_roster_below_(XCoord,YCoord,Team,Seniority,Status,Health,Veterancy,CapPoints,TransportStatus,Fuel,PriAmmo,SecAmmo):
+Submarine 6 1 2 0 0 100 0 20 0 80 6 -1 
+Submarine 12 4 2 1 0 100 0 20 0 80 6 -1 
+Submarine 22 9 2 2 0 100 0 20 0 80 6 -1 
+Cruiser 2 1 2 3 0 100 0 20 0 80 6 6 
