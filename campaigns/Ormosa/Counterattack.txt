@@ -80,6 +80,6 @@ Modern_Armor 10 5 2 12 0 100 0 20 0 70 9 0
 Modern_Armor 10 1 2 13 0 100 0 20 0 70 9 0 
 Infantry 12 1 2 14 0 100 0 20 0 70 -1 0 
 IFV 12 5 2 15 0 100 0 20 0 70 9 -1 
-Armor 1 5 1 16 0 100 0 20 0 70 9 0 
+Rocket_Artillery 1 5 1 16 0 100 0 20 0 70 6 -1 
 Specialist 2 5 1 18 0 100 0 20 0 70 3 0 
 Infantry 2 1 1 19 0 100 0 20 0 70 -1 0 
