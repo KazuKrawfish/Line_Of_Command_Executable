@@ -62,6 +62,8 @@ Special actions
     -Infantry minions can capture after moving/holding, by right clicking on their own position. They must be above an enemy property.
     -Transports can unload after moving/holding. Their drop range is shown in orange, and they drop the unit wherever is clicked.
     -Supply units (APC) can resupply all adjacent minions after moving/holding. Do so by right clicking on their own position.
+    -Operative can deploy landmine by clicking on an adjacent tile after moving. This costs gold.
+    -Engineer can build fortifications after moving, by clicking on their own position. This costs gold and can only be clear/forest tiles.
 
 ### Production
 
